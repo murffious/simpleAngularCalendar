@@ -16,3 +16,13 @@ body {
       text-overflow: ellipsis;
       overflow: hidden;
   }
+
+  .selected-button {
+      background-color:#808080;
+  }
+  .messageField {
+      position: fixed;
+      bottom: 19%;
+      left: 2%;
+      width: 50%;
+  }
